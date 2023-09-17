@@ -11,3 +11,7 @@ Carbon and nitrogen isotopes can be used as tracers to help understand how water
 
 ### Project Description:
 For analyze the plant carbon and nitrogen stable isotope composition, a scatterplot will be used to determinate if there is a correlation between carbon and nitrogen isotopes values of C3 and C4 with the precipitation gradient. It is expected that C4 might be less sensitive to water stress. Also, the four more frequent dominant C3 species were identify with presence along the gradient on the dataset and they will be used for identifying correlation between plant stable isotope composition and precipitation. For the nitrogen isotope values on plants, plants with N2 fixing and mycorrhizal symbiosis will be used to determinate if there is a relationship or not with nitrogen isotope values. Furthermore, a linear regression will be performed to get the R2 and P values to stablish a correlation. 
+
+#### References:
+* Ma J-Y, Sun W, Liu X-N, Chen F-H (2012) Variation in the Stable Carbon and Nitrogen Isotope Composition of Plants and Soil along a Precipitation Gradient in Northern China. PLoS ONE 7(12): e51894. 
+This is the main paper that provides the data set of sample location, mean annual precipitation, vegetation type and collected species. There is no information about the isotopes of the soil organic matter.
